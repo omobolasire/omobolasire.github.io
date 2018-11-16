@@ -46,6 +46,13 @@ text-shadow: 6px 2px #ffe74c;
 margin: 10px;
 }
 
+h2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 40px;
+  color: #FFE74C;
+
+}
+
 nav ul {
     list-style: none;
     font-size: 25px;
